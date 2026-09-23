@@ -1,2 +1,4 @@
-// app.js
-console.log('app.js loaded');
+export const user = {
+    name: 'Krish',
+    skill: 'JS'
+}

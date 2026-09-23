@@ -1,2 +1,3 @@
-// main.js
-console.log('main.js loaded');
+import {user} from'./app.js'
+
+console.log(`${user.name} is learning ${user.skill}` );
